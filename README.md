@@ -3,15 +3,15 @@ Docker image is an open docker image
 
 
 ## Docker Image Type(AS-IS)
-* Centos6
-* Centos7
-* Nginx
-* NODE
-* JDK
-* TOMCAT
-* REDIS
-* MARIADB
-* MONGODB
+* OS/Centos6
+* OS/Centos7
+* CENTOS/Nginx
+* CENTOS/NODE
+* CENTOS/JDK
+* CENTOS/TOMCAT
+* CENTOS/REDIS
+* CENTOS/MARIADB
+* CENTOS/MONGODB
 
 ## Docker Image Type(TO-BE)
 * Centos6 + Nginx + JDK + TOMCAT + MARIADB
