@@ -1,5 +1,5 @@
-
-
-텟나어라ㅓ
-
-테스트입니다
+FROM centos:7
+ENV LANG en_US.UTF-8
+ENV LANGUAGE en_US:en
+ENV LC_ALL en_US.UTF-8
+CMD ["/bin/bash"]
